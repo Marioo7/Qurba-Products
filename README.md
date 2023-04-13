@@ -1,10 +1,20 @@
 # Qurba-Task-Products
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## DummyJSON
+
+DummyJSON is a free online REST API that you can use whenever you need some placeholder data for your front-end website or single-page application without running any server-side code.
+
+## Resources
+
+auth--> https://dummyjson.com/docs/auth
+products--> https://dummyjson.com/docs/products
+
 
 ## Code scaffolding
 
