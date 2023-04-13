@@ -13,6 +13,7 @@ DummyJSON is a free online REST API that you can use whenever you need some plac
 ## Resources
 
 auth--> https://dummyjson.com/docs/auth
+
 products--> https://dummyjson.com/docs/products
 
 
