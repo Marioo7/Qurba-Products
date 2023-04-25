@@ -1,21 +1,10 @@
 # Qurba-Task-Products
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## DummyJSON
-
-DummyJSON is a free online REST API that you can use whenever you need some placeholder data for your front-end website or single-page application without running any server-side code.
-
-## Resources
-
-auth--> https://dummyjson.com/docs/auth
-
-products--> https://dummyjson.com/docs/products
-
 
 ## Code scaffolding
 
@@ -23,7 +12,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build` to build the project. The build artifacts will be stored in the `docs/` directory.
 
 ## Running unit tests
 
@@ -36,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## DummyJSON
+
+DummyJSON is a free online REST API that you can use whenever you need some placeholder data for your front-end website or single-page application without running any server-side code.
+
+## Resources
+
+auth--> https://dummyjson.com/docs/auth
+
+products--> https://dummyjson.com/docs/products
